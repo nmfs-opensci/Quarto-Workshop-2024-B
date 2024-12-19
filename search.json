@@ -126,7 +126,18 @@
     "href": "index.html",
     "title": "Quarto Workshop 2024",
     "section": "",
-    "text": "This is a series of workshops on Quarto lead by NMFS Open Science plus 1:1 support for teams working on converting reports to a Quarto workflow. The workshops are open to anyone with no sign-up needed. The team support requires signing up.",
+    "text": "This is a series of workshops on Quarto lead by NMFS Open Science plus 1:1 support for teams working on converting reports to a Quarto workflow. What are ‘templated’ or reproducible reports? See examples from NOAA Fisheries. The workshops are open to anyone with no sign-up needed.",
+    "crumbs": [
+      "JupyterHub",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "Quarto Workshop 2024",
+    "section": "Instructors",
+    "text": "Instructors\nWorkshop: Jon Peake\nTeam 1 on 1 support: Jon Peake and Eli Holmes",
     "crumbs": [
       "JupyterHub",
       "Welcome"
@@ -137,7 +148,7 @@
     "href": "index.html#goals",
     "title": "Quarto Workshop 2024",
     "section": "Goals",
-    "text": "Goals\n\nWorkshops: Provide training in Quarto and using Quarto for report writing for first time users. Open to all.\nGoogle Space to ask questions and discuss Quarto and ask questions. Open to all in NOAA. Team support: Provide targeted advice and technical support for teams (or individuals) looking to transform a specific report to a more reproducible or ‘templated’ approach with Quarto or RMarkdown\n\nThis fall we are targeting teams and individuals participating in the fall Champions cohorts (or who signed up but didn’t get a spot).\nTeam sign-up for 1:1 help\n\n\n\nSchedule\nSee the schedule page.\n\nThe 5 intro workshops are Monday and Friday at 11am PT/2pm ET during November and December. Add to your calendar or view in the NMFS Open Science calendar.\nFor teams (or individuals) who want 1:1 support for a specific project (sign-up on spreadsheet).\n\n\n\nWhat are ‘templated’ or reproducible reports?\nSee examples from NOAA Fisheries.",
+    "text": "Goals\n\nWorkshops: Provide training in Quarto and using Quarto for report writing for first time users. Open to all.\nTeam support: Provide targeted advice and technical support for teams (or individuals) looking to transform a specific report to a more reproducible or ‘templated’ approach with Quarto or RMarkdown. Four one-on-one meetings.\nGoogle Space to ask questions and discuss Quarto and ask questions. Open to all in NOAA.\n\n\nSchedule\nSee the schedule page.\n\nThe 5 intro workshops are Monday and Friday at 11am PT/2pm ET during November and December. View in the NMFS Open Science calendar (NOAA only).",
     "crumbs": [
       "JupyterHub",
       "Welcome"
