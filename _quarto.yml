@@ -14,8 +14,8 @@ website:
   page-navigation: true  
   title: "2024 Quarto Workshop"
   favicon: "images/favicon-16x16.png"
-  site-url: https://nmfs-opensci.github.io/Quarto-Workshop-2024
-  repo-url: https://github.com/nmfs-opensci/Quarto-Workshop-2024
+  site-url: https://nmfs-opensci.github.io/Quarto-Workshop-2024-B
+  repo-url: https://github.com/nmfs-opensci/Quarto-Workshop-2024-B
   repo-actions: [edit, issue, source]
   
   page-footer: <img src="https://github.com/nmfs-opensci/assets/blob/main/logo/nmfs-opensci-logo2.png?raw=true" alt="NMFS Open Science logo" style="width:150px">
